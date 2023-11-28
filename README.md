@@ -1,1 +1,2 @@
-# BetaTest.github.pt
+# BetaTest.github.pt 
+Addicionado pelo Andrii
